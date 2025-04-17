@@ -54,7 +54,7 @@ Aspiring **Full Stack Developer** | Lifelong Learner
 - Learning how to deploy apps (Vercel, Render, etc.)
 
 📫 **Let's Connect!**
-- [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/joshua-magdadaro-904366338/))
+- [LinkedIn](https://www.linkedin.com/in/joshua-magdadaro-904366338/)
 - Portfolio Website: in progress 
 
 ---
