@@ -21,7 +21,7 @@ Aspiring **Full Stack Developer** | Lifelong Learner
 ---
 
 🎯 **Currently focused on:**
-- Sharpening my JavaScript, TypeScript & React skills
+- Sharpening my JavaScript, TypeScript, React & Next skills
 - Exploring backend with Node.js, Express & Databases
 - Building full-stack projects to level up
 
