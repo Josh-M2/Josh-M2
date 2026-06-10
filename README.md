@@ -1,67 +1,105 @@
-<!--
-**Josh-M2/Josh-M2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Joshua Magdadaro 👋
 
-Here are some ideas to get you started:
+Full Stack Web Developer from the Philippines with experience building and maintaining CMS websites, business websites, SaaS platforms, and AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working across the entire stack — from creating user interfaces and APIs to deployment, production support, and infrastructure.
 
+## 🚀 Tech I've Worked With
 
-## 👋 Hey there, I'm Joshua Magdadaro!
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Material UI
 
-Aspiring **Full Stack Developer** | Lifelong Learner
+### Backend
+- Node.js
+- Express
+- REST APIs
 
----
+### Databases
+- PostgreSQL
+- Supabase
+- MongoDB
+- MySQL
+- Neon
 
-🎯 **Currently focused on:**
-- Sharpening my JavaScript, TypeScript, React & Next skills
-- Exploring backend with Node.js, Express & Databases
-- Building full-stack projects to level up
+### CMS
+- Payload CMS
 
-🌱 **Learning Journey:**
-- Web fundamentals (HTML, CSS, JS)
-- React + Next.js
-- RESTful APIs, CRUD apps
-- Authentication & Authorization
-- Databases (SQL & NoSQL)
-- Version control with Git & GitHub
+### AI & Integrations
+- OpenAI API
+- Anthropic API
+- Stripe
 
-🛠️ **Tech Stack I'm Working With:**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-🚀 **Side Projects & Practice:**
-- Building full-stack apps from scratch — idea to deployment
-- Focusing on problem-solving, clean architecture, and real-world functionality
-- Experimenting with new tools, design systems, and features to learn by doing
-- Learning how to deploy apps (Vercel, Render, etc.)
-
-📫 **Let's Connect!**
-- [LinkedIn](https://www.linkedin.com/in/joshua-magdadaro-904366338/)
-- Portfolio Website: in progress 
+### DevOps & Infrastructure
+- Git & GitHub
+- GitHub Actions
+- CI/CD
+- Kubernetes
+- Vercel
+- Render
+- DigitalOcean
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+## 🌱 Currently Learning
 
-Thanks for stopping by! 💻
+I'm currently expanding into mobile and platform engineering to become a more complete full-stack developer.
 
+### Mobile Development
+- Flutter & Dart
+- Building cross-platform Android and iOS applications
+- State management and scalable architecture
+- Organizing feature-based folder structures for maintainable apps
+- Authentication, API integration, and local storage
+- Responsive layouts across phones and tablets
+- Supporting multiple screen sizes and OS versions
 
+### Backend & Deployment
+- Mobile backend architecture
+- App release workflows and environment management
+- Production deployment strategies
+- Monitoring and maintaining applications after release
+- Docker and containerized deployments
+- Improving CI/CD workflows
 
+### Software Architecture
+- Modular and feature-first project structures
+- Writing maintainable and scalable codebases
+- Clean architecture principles
+- Reusable components and shared services
+- Performance optimization and debugging
+
+---
+
+## 💡 A Few Things I've Done
+
+- Built and maintained production CMS websites and SaaS applications.
+- Worked with AI-powered features using OpenAI and Anthropic APIs.
+- Supported production environments and resolved deployment issues.
+- Improved Kubernetes memory stability and automated database backups.
+- Built internal tools that improved content management workflows.
+- Collaborated with designers and stakeholders to deliver production-ready features.
+
+---
+
+## 🎯 What I Enjoy
+
+- Building products from idea to deployment.
+- Learning new technologies through documentation and hands-on experience.
+- Solving problems and improving existing systems.
+- Working across frontend, backend, databases, and infrastructure.
+- Writing clean, maintainable, and reliable code.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/joshua-magdadaro-904366338
+- GitHub: github.com/Josh-M2
+
+---
+
+> "Always learning. Always building."
